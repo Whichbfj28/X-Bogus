@@ -1,3 +1,11 @@
+imgyh, [2023/3/24 16:03]
+ua需要传，tiktok.py中self.header中的那个ua
+
+imgyh, [2023/3/24 16:04]
+xb加密需要的ua和请求抖音接口的ua一致
+
+
+
 # 抖音X-Bogus本地接口
 
 ### 启动web服务
